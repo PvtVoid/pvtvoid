@@ -76,7 +76,6 @@ I'm a **creative 🎡**, **passionate 🔥**, and **goal-oriented 🎯** develop
 
 - **Website**: [Talishar.net](https://talishar.net/)
 - **Discord**: [Talishar Community](https://discord.gg/JykuRkdd5S)
-- **GitHub**: [@PvtVoid](https://github.com/PvtVoid)
 - **Twitter/X**: [@PvtVoid](https://twitter.com/PvtVoid)
 - **Bluesky**: [@PvtVoid](https://bsky.app/profile/pvtvoid.bsky.social)
 - **Patreon**: [PvtVoid](https://www.patreon.com/pvtvoid)
