@@ -48,6 +48,12 @@ I'm a **creative 🎡**, **passionate 🔥**, and **goal-oriented 🎯** develop
 [![GitHub Stars](https://img.shields.io/github/stars/Talishar/Talishar?style=flat-square&logo=github)](https://github.com/Talishar/Talishar)
 [![GitHub Forks](https://img.shields.io/github/forks/Talishar/Talishar?style=flat-square&logo=github)](https://github.com/Talishar/Talishar)
 
+---
+
+## 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PvtVoid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ### Key Achievements
 - ✅ 1000+ card implementations
 - ✅ Active community with 9000+ daily visitor
