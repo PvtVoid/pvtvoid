@@ -2,17 +2,17 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B731&width=435&lines=Lead+Developer+of+Talishar;Game+Logic+%7C+Full-Stack+Development;Community-Driven+Fan+Project)
 
-I'm a **creative 🎡**, **passionate 🔥**, and **goal-oriented 🎯** developer dedicated to making Talishar as good as possible. With a focus on game logic, backend architecture, and community engagement, I'm committed to creating an accessible platform for players worldwide.
+I'm a **creative**, **passionate**, and **goal-oriented** developer dedicated to making Talishar as good as possible. With a focus on game logic, backend architecture, and community engagement, I'm committed to creating an accessible platform for players worldwide.
 
 ---
 
 ## 💼 About Me
 
-- 👨‍💻 **Lead Developer** of [Talishar](https://talishar.net/) - A browser-based Flesh and Blood TCG platform (Core contributor & architect)
-- 🎮 Passionate about games, logic, and this community
-- 🔧 Full-stack developer skilled in backend and frontend technologies
-- 🤝 Community-driven advocate believing in open-source collaboration
-- 🚀 Currently building the most ambicious online Flesh and Blood experience
+- **Lead Developer** of [Talishar](https://talishar.net/) - A browser-based Flesh and Blood TCG platform (Core contributor & architect)
+- Passionate about games, logic, and this community
+- Full-stack developer skilled in backend and frontend technologies
+- Community-driven advocate believing in open-source collaboration
+- Currently building the most ambicious online Flesh and Blood experience
 
 ---
 
@@ -32,8 +32,6 @@ I'm a **creative 🎡**, **passionate 🔥**, and **goal-oriented 🎯** develop
   - Seamless player experience
 
 ---
-
-## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Languages & Specializations
 - **Backend**: PHP, C#
@@ -92,7 +90,7 @@ Love playing Flesh and Blood on Talishar?
 
 ---
 
-## 📜 Disclaimer
+## Disclaimer
 
 Talishar is a fan-made project. All artwork and card images © Legend Story Studios. Talishar.net is in no way affiliated with Legend Story Studios. Legend Story Studios®, Flesh and Blood™, and set names are trademarks of Legend Story Studios.
 
