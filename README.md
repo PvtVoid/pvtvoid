@@ -50,7 +50,7 @@ I'm a **creative**, **passionate**, and **goal-oriented** developer dedicated to
 
 ## 🔥 GitHub Streak Stats
 
-[![GitHub Streak](https://git.io/streak-stats?user=PvtVoid&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=PvtVoid&type=streak&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Key Achievements
 - ✅ 1000+ card implementations
