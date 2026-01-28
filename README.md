@@ -84,7 +84,7 @@ I'm a **creative**, **passionate**, and **goal-oriented** developer dedicated to
 ## 🎮 Support Talishar
 
 Love playing Flesh and Blood on Talishar?
-- **Become a Patron**: [Patreon](https://linktr.ee/Talishar)
+- **Become a Supporter**: [Metafy](https://metafy.gg/@Talishar)
 - **Report Issues**: [GitHub Issues](https://github.com/Talishar/Talishar/issues)
 - **Join Discord**: [Contribute & Community Server](https://discord.gg/JykuRkdd5S)
 
